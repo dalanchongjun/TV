@@ -27,7 +27,7 @@
 
 {"key":" 在线┃直播","name":"📺在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},  
 
-{"key":"csp_77","name":"👒酷云七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/77.jar"},
+{"key":"csp_77","name":"👒龙龙七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/77.jar"},
                       
 {"key":"爱迪V2","name":"💡️爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
 
