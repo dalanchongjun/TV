@@ -1,51 +1,11 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
 
-"spider":"./云星日记0615.jpg;md5;9aaba445bffeab23901ffcdc4f2321b1",
+"spider":"./龙龙电视盒子.jpg;md5;9aaba445bffeab23901ffcdc4f2321b1",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
-"warningText": "接口由公众号【云星日记】免费提供",
+"warningText": "接口由龙龙电视盒子提供",
 "wallpaper":"http://maoyingshi.cc/api.php",
 
   
@@ -260,7 +220,7 @@
 {"key":"短视频","name":"短视频┃聚合","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/短视频.json"},
 
 
-{"key":"说明","name":"公众号：云星日记","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"说明","name":"龙龙电视盒子","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"提供免费维护","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
 
 
