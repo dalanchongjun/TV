@@ -15,10 +15,6 @@
 	 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "💖蜂蜜线路"
-        },
-	 {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/dalanchongjun/TV/release/json/a.txt",
-            "name": "💖重新刷新"
         }
      ]
    }
