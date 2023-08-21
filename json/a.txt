@@ -49,6 +49,6 @@
 	 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "💖蜂蜜线路"
-        },
+        }
      ]
    }
