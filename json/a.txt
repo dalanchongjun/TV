@@ -1,0 +1,24 @@
+{
+    "urls": [
+        {
+          "url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
+          "name":"🔞GGTV-18"
+        },
+        {
+          "url":"https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
+          "name":"🔞guot54"
+        },
+        {
+          "url": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+          "name": "🔞franksun1211"
+        },
+	 {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+            "name": "💖蜂蜜线路"
+        }
+	 {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/dalanchongjun/TV/release/json/a.txt",
+            "name": "💖重新刷新"
+        }
+     ]
+   }
